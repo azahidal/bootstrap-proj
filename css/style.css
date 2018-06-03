@@ -1,0 +1,82 @@
+/* CSS Styles */
+
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    color: #3d3d3d;
+}
+
+header {
+    background: #00b2fd;
+    height: 1000px;
+}
+
+a {
+    color: #fff;
+}
+
+a:hover {
+    text-decoration: none;
+    color: #fff;
+}
+
+nav ul li {
+    display: inline-block;
+    list-style: none;
+    text-decoration: none;
+    font-size: 14px;
+    padding-top: 18px;
+}
+
+nav li {
+    padding 10px;
+}
+
+.logo {
+    padding-top: 10px;
+    font-size: 50px;
+    font-family: 'Reenie Beanie', cursive;
+    text-transform: uppercase;
+    color: #fff;
+}
+
+#headerText {
+    color: #fff;
+    font-family: 'Montserrat', sans-serif;
+    font-size: 80px;
+    text-align: center;
+    padding-top: 320px;
+}
+
+.blurb {
+    color: #fff;
+    font-size: 20px;
+    font-family: 'Gloria Hallelujah', cursive;
+}
+
+#surfboard {
+    display: block;
+    margin: auto;
+    width: 80%;
+}
+
+.thingsToDo{
+    font-family: 'Open Sans', sans-serif;
+    font-weight: lighter;
+    padding: 50px 0px;
+}
+
+.img-gallery {
+    padding-bottom: 30px;
+}
+
+footer{
+    background-color: #00b2fd;
+    font-family: 'Montserrat', sans-serif;
+    height: 60px;
+    padding-top: 20px;
+    padding-left: 15px;
+}
